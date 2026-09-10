@@ -1,2 +1,3 @@
 # AI_CUP_azad_awad
-Four code files kept separate from the teaching repository
+A trained model with a heuristic angle and maxima where the move with the highest score will be played.
+
